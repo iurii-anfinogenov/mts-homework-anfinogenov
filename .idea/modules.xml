@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/lesson-two.iml" filepath="$PROJECT_DIR$/lesson-two.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mts-homework-anfinogenov.iml" filepath="$PROJECT_DIR$/.idea/mts-homework-anfinogenov.iml" />
     </modules>
   </component>
